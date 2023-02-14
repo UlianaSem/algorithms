@@ -18,3 +18,11 @@ Binary search: finds the index from the first array, the number of which is equa
 Number of inversions (merge sorting): finds the inversion of an array
 
 Priority Queue with heapq: finds the maximum in the priority queue
+
+A small Fibonacci number: finds the nth Fibonacci number, for 0 < n < 41
+
+A huge Fibonacci number modulo: finds the remainder of the division of the nth Fibonacci number by m
+
+The last digit of the Fibonacci number: finds the last digit of the nth Fibonacci number
+
+The largest common divisor: finds the greatest common divisor of two numbers
